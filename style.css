@@ -1,0 +1,45 @@
+*{
+    background-color: lightcoral;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.container{
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+.main{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    margin: 100px 0;
+        
+} 
+.counter{
+    font-size: 60px;
+    margin: 15px;
+}
+.area{
+    margin: 70px;
+    font-size: 100px;
+}
+.upperButton{
+padding: 10px;
+border-radius: 10px;
+background-color: lightgreen;
+font-weight: bold;
+width: 100px;
+}
+
+.lowerButton{
+padding: 10px;
+border-radius: 10px;
+background-color: lightgreen;
+font-weight: bold;
+width: 100px;
+}
